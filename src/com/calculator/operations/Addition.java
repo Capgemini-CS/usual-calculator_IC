@@ -6,4 +6,5 @@ public class Addition implements Operation{
     public int mathematicalOperation(int firstNumber, int secondNumber) {
         return firstNumber + secondNumber;
     }
+
 }
